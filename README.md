@@ -12,6 +12,7 @@ How to play.
 remark: a game history will clear when close an application.
 
 Application algorithm
+
   First, when the application receives a table size number. An application will setup a sqllite database.
 Generate a gameState list, a gameState size will depend on num of table grids (default number in list is 2). 
 And generate a winPosition list to collect a win position grid in the table. 
